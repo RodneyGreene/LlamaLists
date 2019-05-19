@@ -1,0 +1,15 @@
+.title {
+    text-align: center;
+}
+
+.llama-form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
